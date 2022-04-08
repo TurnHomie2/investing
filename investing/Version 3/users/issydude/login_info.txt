@@ -1,0 +1,28 @@
+first_name:Isabelle
+last_name:Scheinblum
+email:isabelle.scheinblum@gmail.com
+username:issydude
+password:issy
+balance:2498665434.063767
+month:22
+income_collected:False
+expenses_paid:False
+Small house_owned:False
+Small house_mortgage:0.0
+Small house_month_bought_on:None
+Apartment_owned:True
+Apartment_mortgage:708666.31
+Apartment_month_bought_on:1
+Donut store_owned:False
+Donut store_mortgage:0.0
+Donut store_month_bought_on:None
+Phone factory_owned:True
+Phone factory_mortgage:0.0
+Phone factory_month_bought_on:1
+Aunt Belle's House_owned:False
+Aunt Belle's House_mortgage:0.0
+Aunt Belle's House_month_bought_on:None
+Bric Inc._value:143.93207984976053
+Bric Inc._owned:0
+X-Phones_value:1381.631672218388
+X-Phones_owned:0

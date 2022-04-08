@@ -1,0 +1,24 @@
+Small house_owned:True
+Small house_mortgage:224139.13548462203
+Small house_month_bought_on:1
+Small house_value:207265.30609189408
+Apartment_owned:False
+Apartment_mortgage:0
+Apartment_month_bought_on:None
+Apartment_value:784128.7254481137
+Donut store_owned:False
+Donut store_mortgage:0
+Donut store_month_bought_on:None
+Donut store_value:532542.8195676806
+Phone factory_owned:False
+Phone factory_mortgage:0
+Phone factory_month_bought_on:None
+Phone factory_value:1366759.6513342033
+Shedara_owned:False
+Shedara_mortgage:0
+Shedara_month_bought_on:None
+Shedara_value:433647.1280574951
+Amazon_owned:False
+Amazon_mortgage:0
+Amazon_month_bought_on:None
+Amazon_value:1021505.174280884

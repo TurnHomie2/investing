@@ -1,0 +1,21 @@
+first_name:Joel
+last_name:Mentz
+email:Iamtherealjoelmentz@gmail.com
+username:turnhomie
+password:100149
+balance:75000.0
+month:11
+income_collected:True
+expenses_paid:True
+Small house_owned:False
+Small house_mortgage:0.0
+Small house_month_bought_on:None
+Apartment_owned:False
+Apartment_mortgage:0.0
+Apartment_month_bought_on:None
+Donut store_owned:False
+Donut store_mortgage:0.0
+Donut store_month_bought_on:None
+Phone factory_owned:False
+Phone factory_mortgage:0.0
+Phone factory_month_bought_on:None

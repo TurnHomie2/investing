@@ -1,0 +1,28 @@
+first_name:Cian
+last_name:Costello
+email:ciancostello97@gmail.com
+username:ciancost
+password:cian_invest
+balance:22977013.36324095
+month:7
+income_collected:True
+expenses_paid:True
+Small house_owned:True
+Small house_mortgage:0
+Small house_month_bought_on:1
+Apartment_owned:False
+Apartment_mortgage:0.0
+Apartment_month_bought_on:None
+Donut store_owned:True
+Donut store_mortgage:0
+Donut store_month_bought_on:3
+Phone factory_owned:True
+Phone factory_mortgage:0
+Phone factory_month_bought_on:3
+Bric Inc._value:73.40485705471264
+Bric Inc._owned:5
+X-Phones_value:1361.8085976677487
+X-Phones_owned:5
+Aunt Belle's House_owned:False
+Aunt Belle's House_mortgage:0.0
+Aunt Belle's House_month_bought_on:None

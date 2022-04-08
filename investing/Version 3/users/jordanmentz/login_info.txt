@@ -1,0 +1,28 @@
+first_name:Jordan
+last_name:Mentz
+email:jrmjrmjrm1@gmail.com
+username:jordanmentz
+password:1234
+balance:21151.22257027139
+month:11
+income_collected:False
+expenses_paid:False
+Small house_owned:False
+Small house_mortgage:0.0
+Small house_month_bought_on:None
+Apartment_owned:False
+Apartment_mortgage:0.0
+Apartment_month_bought_on:None
+Donut store_owned:False
+Donut store_mortgage:0.0
+Donut store_month_bought_on:None
+Phone factory_owned:False
+Phone factory_mortgage:0.0
+Phone factory_month_bought_on:None
+Bric Inc._value:116.94418060834226
+Bric Inc._owned:0
+X-Phones_value:1399.884089848952
+X-Phones_owned:0
+Aunt Belle's House_owned:False
+Aunt Belle's House_mortgage:0.0
+Aunt Belle's House_month_bought_on:None

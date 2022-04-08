@@ -1,0 +1,24 @@
+Apartment_owned:False
+Apartment_mortgage:0
+Apartment_month_bought_on:None
+Apartment_value:888233.2162156199
+Donut store_owned:True
+Donut store_mortgage:401619.3855330047
+Donut store_month_bought_on:7
+Donut store_value:503535.61005237466
+Phone factory_owned:True
+Phone factory_mortgage:0
+Phone factory_month_bought_on:7
+Phone factory_value:1287005.601572968
+Camilena 46574_owned:False
+Camilena 46574_mortgage:0
+Camilena 46574_month_bought_on:None
+Camilena 46574_value:526704.991001178
+SCI LumberHouse_owned:True
+SCI LumberHouse_mortgage:2198506.3067485658
+SCI LumberHouse_month_bought_on:16
+SCI LumberHouse_value:3781583.882384915
+Small house_owned:False
+Small house_mortgage:0
+Small house_month_bought_on:None
+Small house_value:231503.47533896274

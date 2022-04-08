@@ -1,0 +1,37 @@
+first_name:Joel
+last_name:Mentz
+email:Iamtherealjoelmentz@gmail.com
+username:turnhomie
+password:100149
+balance:150000.0
+month:1
+income_collected:False
+expenses_paid:False
+Small house_owned:False
+Small house_mortgage:0.0
+Small house_month_bought_on:None
+Small house_value:284781.67
+Apartment_owned:False
+Apartment_mortgage:0.0
+Apartment_month_bought_on:None
+Apartment_value:921260.26
+Donut store_owned:False
+Donut store_mortgage:0.0
+Donut store_month_bought_on:None
+Donut store_value:535671.19
+Phone factory_owned:False
+Phone factory_mortgage:0.0
+Phone factory_month_bought_on:None
+Phone factory_value:1396801.58
+Bric Inc._value:80.92625000000001
+Bric Inc._owned:0
+Bric Inc._previous_month_value:80.12500000000001
+Bric Inc._total_bought_worth:0
+X-Phones_value:1377.1
+X-Phones_owned:0
+X-Phones_previous_month_value:1377.1
+X-Phones_total_bought_worth:0
+D-Dairy_value:27.845000000000002
+D-Dairy_owned:0
+D-Dairy_previous_month_value:27.845000000000002
+D-Dairy_total_bought_worth:0
