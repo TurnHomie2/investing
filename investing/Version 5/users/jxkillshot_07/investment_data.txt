@@ -1,0 +1,48 @@
+Bric Inc._value:80.11698750000001
+Bric Inc._owned:0
+Bric Inc._previous_month_value:80.92625000000001
+Bric Inc._total_bought_worth:0.0
+X-Phones_value:1158.82965
+X-Phones_owned:0
+X-Phones_previous_month_value:1170.5349999999999
+X-Phones_total_bought_worth:0.0
+Y-Phones_value:1376.96229
+Y-Phones_owned:0
+Y-Phones_previous_month_value:1390.8709999999999
+Y-Phones_total_bought_worth:0.0
+D-Dairy_value:28.404684500000002
+D-Dairy_owned:36
+D-Dairy_previous_month_value:28.123450000000002
+D-Dairy_total_bought_worth:1012.4442
+SCI Inc._value:587.8884825
+SCI Inc._owned:0
+SCI Inc._previous_month_value:593.8267500000001
+SCI Inc._total_bought_worth:0.0
+Amazon_value:1587.285315
+Amazon_owned:107
+Amazon_previous_month_value:1380.2481
+Amazon_total_bought_worth:149178.33000000002
+Home Depot_value:87.40625849999999
+Home Depot_owned:0
+Home Depot_previous_month_value:86.54084999999999
+Home Depot_total_bought_worth:0.0
+Lowes_value:146.58837000000003
+Lowes_owned:0
+Lowes_previous_month_value:145.13700000000003
+Lowes_total_bought_worth:0.0
+Pet Co._value:19.168083000000003
+Pet Co._owned:0
+Pet Co._previous_month_value:19.361700000000003
+Pet Co._total_bought_worth:0.0
+Pet Smart_value:43.565642999999994
+Pet Smart_owned:0
+Pet Smart_previous_month_value:43.134299999999996
+Pet Smart_total_bought_worth:0.0
+TJ Max_value:9.5336425
+TJ Max_owned:0
+TJ Max_previous_month_value:9.43925
+TJ Max_total_bought_worth:0.0
+Vans_value:540.3724725
+Vans_owned:0
+Vans_previous_month_value:535.02225
+Vans_total_bought_worth:0.0

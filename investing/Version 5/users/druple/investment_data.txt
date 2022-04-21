@@ -1,0 +1,12 @@
+Bric Inc._value:78.34679901950625
+Bric Inc._owned:0
+Bric Inc._previous_month_value:82.47031475737501
+Bric Inc._total_bought_worth:0
+X-Phones_value:1401.2677607249998
+X-Phones_owned:0
+X-Phones_previous_month_value:1475.0186954999997
+X-Phones_total_bought_worth:0
+D-Dairy_value:28.397583328875
+D-Dairy_owned:7
+D-Dairy_previous_month_value:30.5350358375
+D-Dairy_total_bought_worth:213.7452508625

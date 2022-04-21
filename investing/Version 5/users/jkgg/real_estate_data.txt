@@ -1,0 +1,16 @@
+Small house_owned:True
+Small house_mortgage:227144.04
+Small house_month_bought_on:1
+Small house_value:258814.77
+Apartment_owned:False
+Apartment_mortgage:0.0
+Apartment_month_bought_on:None
+Apartment_value:845630.68
+Donut store_owned:False
+Donut store_mortgage:0.0
+Donut store_month_bought_on:None
+Donut store_value:425174.13
+Phone factory_owned:False
+Phone factory_mortgage:0.0
+Phone factory_month_bought_on:None
+Phone factory_value:1497560.35

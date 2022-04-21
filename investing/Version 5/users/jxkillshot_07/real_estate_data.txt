@@ -1,0 +1,24 @@
+Small house_name:Small house
+Small house_style:residential
+Small house_owned:False
+Small house_mortgage:0
+Small house_month_bought_on:None
+Small house_value:256303.50299999997
+Apartment_name:Apartment
+Apartment_style:residential
+Apartment_owned:False
+Apartment_mortgage:0
+Apartment_month_bought_on:None
+Apartment_value:930472.8626
+Donut store_name:Donut store
+Donut store_style:commercial
+Donut store_owned:False
+Donut store_mortgage:0
+Donut store_month_bought_on:None
+Donut store_value:442659.1943
+Phone factory_name:Phone factory
+Phone factory_style:industrial
+Phone factory_owned:False
+Phone factory_mortgage:0
+Phone factory_month_bought_on:None
+Phone factory_value:1382833.5614

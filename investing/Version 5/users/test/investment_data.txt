@@ -1,0 +1,16 @@
+Bric Inc._value:80.12500000000001
+Bric Inc._owned:0
+Bric Inc._previous_month_value:80.12500000000001
+Bric Inc._total_bought_worth:0.0
+X-Phones_value:1377.1
+X-Phones_owned:0
+X-Phones_previous_month_value:1377.1
+X-Phones_total_bought_worth:0.0
+D-Dairy_value:27.845000000000002
+D-Dairy_owned:0
+D-Dairy_previous_month_value:27.845000000000002
+D-Dairy_total_bought_worth:0.0
+SCI Inc._value:599.825
+SCI Inc._owned:0
+SCI Inc._previous_month_value:599.825
+SCI Inc._total_bought_worth:0.0

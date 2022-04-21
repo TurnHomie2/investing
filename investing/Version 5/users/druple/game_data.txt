@@ -1,0 +1,4 @@
+balance:77766.4451948843
+month:13
+income_collected:True
+expenses_paid:True
